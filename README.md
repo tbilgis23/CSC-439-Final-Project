@@ -4,6 +4,7 @@ Required libraries
 > tensorflow >= 2.5
 > 
 > tensorflow_datasets
+> 
 > sklearn
 > 
 > random
