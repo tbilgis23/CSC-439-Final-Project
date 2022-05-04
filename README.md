@@ -2,10 +2,14 @@
 
 Required libraries
 > tensorflow >= 2.5
+> 
 > tensorflow_datasets
 > sklearn
+> 
 > random
+> 
 > pandas
+> 
 > numpy
 
 The dataset that was used can be found here https://ai.stanford.edu/~amaas/data/sentiment/
