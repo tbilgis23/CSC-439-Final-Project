@@ -13,5 +13,5 @@ Required libraries
 > 
 > numpy
 
-The dataset that was used can be found here https://ai.stanford.edu/~amaas/data/sentiment/
+The dataset that was used can be found here https://ai.stanford.edu/~amaas/data/sentiment/.
     
